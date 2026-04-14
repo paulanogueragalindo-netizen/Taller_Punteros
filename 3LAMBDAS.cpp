@@ -8,7 +8,10 @@ double sumaExtra(double x)  { return x + valorExtra; }
 
 double suma(double acum, double x)     { return acum + x; }
 double producto(double acum, double x) { return acum * x; }
-double maximo(double acum, double x)   { return (x > acum) ? x : acum; }
+double maximo(double acum, double x) {
+    if (x > acum) return x;
+    else          return acum;
+}
 
 double reducirConFunciones(
     double* arreglo,
