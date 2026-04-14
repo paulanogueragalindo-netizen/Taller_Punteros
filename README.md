@@ -1,9 +1,13 @@
 # Puntos taller de punteros
 
 **Taller:** Taller de punteros
+
 **Estudiante:** Paula Noguera - Julian Rojas
+
 **Lenguaje:** C++  
+
 **Tipo:** Aplicación de consola
+
 
 ## Descripción
 
